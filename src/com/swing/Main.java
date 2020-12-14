@@ -14,6 +14,5 @@ public class Main {
         Toolkit toolkit = Toolkit.getDefaultToolkit();
         Dimension dimension = toolkit.getScreenSize();
         jFrame.setBounds(dimension.width/2 - 250, dimension.height/2 - 250, 500, 300);
-//        jFrame.add(new JLabel(new ImageIcon("/Users/eugeneburdukov/Documents/java/swing/src/com/swing/IMG_9752.JPG")));
     }
 }
